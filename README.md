@@ -20,6 +20,7 @@ Camera: [Unzano Full HD Webcam 1080P,Streaming Camera,Webcam with Microphone,Wid
 1) Extend longer
 2) Decide which holes to use
 3) open up 6mm hole to 6.25-6.5mm for 1/4-20 clearance hole (maybe look up clearance hole size!)
+4) add photo when happy with design
 
 ## Design
 
